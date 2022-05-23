@@ -2,7 +2,7 @@
 
 - Learning Python and more
 - 🥅 2022 goals: AWS Solutions Architect Assosciate degree.
-- ⚡ Fun fact: 한국 좋아해!
+- ⚡ Fun fact: 한국어 마해요.
 
 ---
 
