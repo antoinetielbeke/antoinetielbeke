@@ -1,8 +1,6 @@
 ### Hi there, I'm Antoine.
 
-- Learning Python and more
-- 🥅 2022 goals: AWS Solutions Architect Assosciate degree.
-- ⚡ Fun fact: 한국어 말해요.
+- 
 
 ---
 
